@@ -1,16 +1,16 @@
 package Javapractice;
 
-public abstract class ConstructorCalling {
+	abstract class ConstructorCalling {
 	
+	public ConstructorCalling() {
+		System.out.println("This is Abstract class Constructor...!");
+	}
 	static void callConstructor()
 	{
-		ConstructorCalling();
-	}
-
-	private static ConstructorCalling() {
-		// TODO Auto-generated method stub
 		
 	}
+
+	
 	
 
 }
