@@ -7,6 +7,7 @@ package Javapractice;
 	}
 	static void callConstructor()
 	{
+		System.out.println("this is in eclipse...");
 		
 	}
 
