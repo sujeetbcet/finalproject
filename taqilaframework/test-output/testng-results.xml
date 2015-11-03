@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17376" started-at="2015-11-03T14:19:42Z" finished-at="2015-11-03T14:19:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17376" started-at="2015-11-03T14:19:42Z" finished-at="2015-11-03T14:19:59Z">
+      <class name="com.actitime.projectandcustomer.CreateUser">
+        <test-method status="PASS" signature="creatUser()[pri:0, instance:com.actitime.projectandcustomer.CreateUser@8dacdf]" name="creatUser" duration-ms="17354" started-at="2015-11-03T19:49:42Z" finished-at="2015-11-03T19:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatUser -->
+      </class> <!-- com.actitime.projectandcustomer.CreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

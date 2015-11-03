@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19155" started-at="2015-11-02T12:37:55Z" finished-at="2015-11-02T12:38:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19155" started-at="2015-11-02T12:37:55Z" finished-at="2015-11-02T12:38:15Z">
+      <class name="apachepoi.ReadExcelFile">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:apachepoi.ReadExcelFile@1df28bb]" name="launchBrowser" is-config="true" duration-ms="16788" started-at="2015-11-02T18:07:55Z" finished-at="2015-11-02T18:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:apachepoi.ReadExcelFile@1df28bb]" name="loginTest" duration-ms="2336" started-at="2015-11-02T18:08:12Z" finished-at="2015-11-02T18:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- apachepoi.ReadExcelFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
