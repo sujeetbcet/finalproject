@@ -30,7 +30,7 @@ public class UserTest {
 		driver.findElement(By.id("loginButton")).click();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		
-		Thread.sleep(10000);
+		Thread.sleep(1000000);
 		driver.close();
 				
 	}
